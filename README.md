@@ -1,8 +1,8 @@
 # Tool Library API
 
-<!-- Replace this line with one or two sentences about the project in your own words. -->
+A small REST API for a tool library built with Express.js.
 
-Live: <!-- your Render address, for example https://cpan212-lab2-jane-doe.onrender.com/api/tools -->
+Live: https://cpan212-lab2-amrit-tiwana.onrender.com/api/tools
 
 ## Run it
 
@@ -34,4 +34,4 @@ This tries every route and prints which checks pass.
 
 ## AI use
 
-<!-- List each AI tool you used and what you used it for, or write "No AI tools used." -->
+Used AI to explain Express routing concepts and verify validation logic.
